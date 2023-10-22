@@ -1,0 +1,8 @@
+Group Name: Team 1
+Project Title: Adaptive Emotion Quiz Giving Agent
+
+Members:
+Richard Chai Cheng Hee: S****946Z
+
+Weblink to project repository:
+https://github.com/atsui888/Pattern-Recognition-Systems
