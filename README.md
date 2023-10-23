@@ -7,8 +7,9 @@ The AI Agent adapts the way it
 - difficulty of the questions, 
 - the type and order of the questions <br>
 
-based on the user's emotions in order to increase the probability of attaining the lesson/training objectives 
-and enhancing the user's learning experience positively.
+based on the user's emotions in order to 
+* increase the probability of attaining the lesson/training objectives and
+* enhance the user's learning experience positively.
 
 
 *** Work-In-Progress ***
