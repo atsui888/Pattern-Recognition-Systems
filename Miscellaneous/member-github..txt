@@ -1,5 +1,12 @@
 Group Name: Practice Project Group 1
-Project Title: Adaptive Emotion Quiz Giving Agent
+Project Title: Adaptive (Emotion) AI Agent
+
+The AI Agent adapts the way it 
+- interacts with the user, 
+- difficulty of the questions, 
+- the type and order of the questions
+based on the user's emotions in order to increase the probability of attaining the lessons objectives 
+and enhancing the user's learning experience positively.
 
 Members:
 Richard Chai Cheng Hee: S****946Z
