@@ -1,4 +1,4 @@
-Group Name: Team 1
+Group Name: Practice Project Group 1
 Project Title: Adaptive Emotion Quiz Giving Agent
 
 Members:
