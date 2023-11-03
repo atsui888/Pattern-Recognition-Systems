@@ -30,6 +30,9 @@ The user interacts with the Agent via a Streamlit App using text input. The Agen
 ![image](https://github.com/atsui888/Pattern-Recognition-Systems/assets/18540586/c1d1eba9-40ec-477f-ae4b-8adc358d5f07)
 The Agent will perform Emotion Classification and then take the appropriate next action.
 
+The Emotion Aware Intelligent Agent utilises the ReAct Framework as its Reasoning Engine:
+- Synergizing Reasoning and Acting in Language Models (ReAct ) - https://arxiv.org/abs/2210.03629
+
 
 
 
