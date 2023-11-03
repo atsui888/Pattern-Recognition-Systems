@@ -1,0 +1,101 @@
+GUIDE TO SINGAPORE PROCUREMENT
+=============================
+source: https://www.gebiz.gov.sg/singapore-government-procurement-regime.html
+
+
+GUIDE FOR SUPPLIERS
+===================
+The Ministry of Finance has prepared a guide for suppliers. This guide is useful for suppliers looking to deliver goods or provide services to the Singapore Government. It will help you gain a better understanding of Singapore's Government procurement processes, avoid common pitfalls and compete effectively for Government contracts.
+
+This guide addresses key questions such as:
+- What does the Government procure?
+- What are the rules and processes of Government procurement?
+- How to look for business opportunities?	
+- How to participate?
+- How to submit a competitive bid?
+
+A summarised version of the guide is also available for those who require a quick reference.
+
+A Guide for Suppliers - Participating in Singapore Government Procurement Opportunities
+- Download Comprehensive Version (PDF, 1.01 MB) -> https://www.gebiz.gov.sg/docs/Supplier_Guide_Detailed.pdf
+- Download Summarised Version (PDF, 600KB) -> https://www.gebiz.gov.sg/docs/Supplier_Guide_Summarised.pdf
+- Guide to invoicing at Vendors@Gov -> https://www.vendors.gov.sg/Common/UserManual.aspx
+
+
+ADMINISTRATIVE STRUCTURE
+========================
+As a city-state, Singapore does not have local government / sub-central authorities.
+
+The bulk of Government Procurement (GP) activities in Singapore is decentralised to individual Ministries, Departments, Organs of State and Statutory Boards. However, they must adhere to central procurement guidelines issued by the Ministry of Finance.
+
+Centralised purchasing is carried out for common goods and services and Ministries, Departments, Organs of State and Statutory Boards can purchase off service-wide contracts.
+
+
+GOVERNMENT PROCUREMENT POLICIES AND PROCEDURES
+==============================================
+The Singapore Government adopts the fundamental principles of fairness, openness and competitiveness for its government procurement policies. Tenders are awarded to the bid that brings the best value for money for the public sector, taking a holistic approach.
+
+Singapore is party to the 1994 Agreement on Government Procurement (GPA) under the World Trade Organization.
+Depending on the estimated value of the GP, the procurement procedure adopted could be by way of a Small Value Purchase, by way of inviting Quotations, or by Tender.
+
+Small Value Purchase
+--------------------
+A Small Value Purchase, for items of goods or services with estimated value of up to $6,000, may be carried out directly by the authority by buying off-the-shelf or purchasing directly from known sources.
+
+Use of Quotations
+-----------------
+For items of goods or services with estimated value of up to $90,000, Quotations will be invited. In this process, at least two officials are responsible for the purchase: one to invite, receive and evaluate offers and make recommendation; the other to approve the recommendation.
+
+Use of Tenders
+---------------
+Tenders are invited by using the Open, Selective or Limited tendering procedures.
+	
+Open Tender: All GPs with estimated value of above $90,000 must adopt tendering procedures. Under an Open Tender, all suppliers may participate by responding to Tender Notices. An Open or Selective Tender will be called unless the circumstances allow for a Limited Tender to be called.
+	
+Selective Tenders: For a Selective Tender to be used, a qualification of interested suppliers, based on their capabilities, is carried out first so as to exclude suppliers who do not meet the minimum requirements. Suppliers qualified in this process are then invited to submit tenders.
+	
+Limited Tenders: In a Limited Tendering procedure, tenders are invited from only a few suppliers, or from one pre-identified supplier. Some instances where a Limited Tender may be used are when no responsive tender is received from an earlier Open or Selective Tender, when it concerns national security, or when it is not feasible / practical to call for open tenders e.g. because of intellectual property rights or for works of art.
+
+
+PUBLICATION OF PROCUREMENT INFORMATION
+======================================
+Tender notices and Quotation notices are posted on the Government Electronic Business (GeBIZ) web-site (http://www.gebiz.gov.sg). GeBIZ also contains information on tender schedules (bids after a tender closes) and tender awards.
+
+In addition, the public sector's listing of indicative procurement opportunities for the financial year (Apr to Mar) is also published in GeBIZ. As a guide, procurement opportunities exceeding $200,000 will be listed.
+
+
+COMPLAINT / APPEAL PROCEDURES
+=============================
+A Government Procurement Adjudication Tribunal, set up in accordance with the Government Procurement Act, will handle complaints of non-compliance with the GPA. The Ministry of Finance is the contact agency.
+
+Ministry of Finance
+#06-03 The Treasury
+100 High Street
+Singapore 179434
+mof_qsm@mof.gov.sg
+
+
+ADDITIONAL INFORMATION
+======================
+i. Centralised Evaluation of Suppliers
+Business entities wishing to bid for public sector business opportunities may be required to register with the relevant Government Registration Authorities. Suppliers for construction-related goods and services need to register with Building and Construction Authority (BCA). Suppliers for all other goods and services can register with CrimsonLogic Pte Ltd, a service provider appointed by Ministry of Finance.
+
+If registration with the Government Supplier Registration (GSR) unit is required for any particular business opportunity, such a criteria will be stated in the relevant notice and documentation. For administrative efficiency and the convenience of the suppliers, the financial standing and capability of the suppliers are evaluated centrally by the GSR unit or the BCA.
+
+Government Supplier Registration (for GRA supply head) Guidelines
+- Download document (PDF, 372KB): https://www.gebiz.gov.sg/docs/Appln_Guidelines_for_Gov_Supp_Reg.pdf
+
+Director(s)' Declaration on un-audited Financial Statements (Word doc)
+- Download document (DOCX, 33KB): https://www.gebiz.gov.sg/docs/Dir_Declaration_Unaudited_Financial_Statement.docx
+
+ii. Debarment or Disqualification of Suppliers
+Suppliers can be debarred or disqualified from being awarded contracts by public sector agencies (i.e. Ministries, Departments, Organs of State and Statutory Boards). A list of debarment or disqualification grounds can be found below.
+
+List of Debarment or Disqualification Grounds
+- Download document (PDF, 150KB): https://www.gebiz.gov.sg/docs/AUTHORITY_AND_RATIONALE_FOR_DEBARMENT.pdf
+
+iii. Revenue Contracting
+There is also a set of central guidelines issued by the Ministry of Finance for revenue contracting for public sector agencies.
+
+Guidelines for Revenue Contracting for Public Sector Agencies
+- Download document (PDF, 136KB): https://www.gebiz.gov.sg/docs/revenue_contracting.pdf
