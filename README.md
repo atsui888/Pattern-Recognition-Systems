@@ -23,8 +23,7 @@ Instead of such reactive methods, an Intelligent Agent which modifies training c
 
 Hence, the motivation behind this proof-of-concept project, to have an Intelligent Agent assess the emotional status of the learner in real-time, alter the training content into manageable chunks and modify question difficulty such that the learner becomes more motivated to understand the objective of the course because it is personalised for them.
 
-[![Watch the video]](https://animoto.com/play/pfRVjpHiga0cCHHVSs0UdQ)
-
+[![Watch the video]](https://s3.amazonaws.com/embed.animoto.com/play.html?w=swf/production/vp1&e=1699005628&f=pfRVjpHiga0cCHHVSs0UdQ&d=0&m=p&r=360p+720p+1080p&volume=100&start_res=1080p&i=m&asset_domain=s3-p.animoto.com&animoto_domain=animoto.com&options=)
 
 The Emotion Aware AI Agent adopts a chatbot interface to showcase its ability to adapt the questions it asks from random or custom content in accordance with the user’s emotional state.
 ![App Screen Shot 01](https://github.com/atsui888/Pattern-Recognition-Systems/assets/18540586/ae230377-1ef6-445d-b0a1-b91507a5e6f3)
