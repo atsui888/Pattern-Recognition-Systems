@@ -8,6 +8,7 @@ The Corporate Training market size was valued at USD 145465.91 million in 2022 a
 Online corporate training can be improved in various ways to enhance the learning experience for participants. Among the many strategies and considerations for improving online training, one that stands out as being sorely needed yet difficult to achieve is:
 -	Personalised Content: 
   - Tailor the training to the individual needs and learning styles of participants. Offer options for self-paced learning and provide opportunities for learners to choose their own paths within the training.
+    
 -	Where Personalisation is achieved via:
   - Content Chunking: 
     - Break down content into manageable chunks or modules, making it easier for learners to digest and retain information.
