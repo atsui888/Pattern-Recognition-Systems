@@ -33,6 +33,6 @@ The Agent will perform Emotion Classification and then take the appropriate next
 The Emotion Aware Intelligent Agent utilises the ReAct Framework as its Reasoning Engine:
 - Synergizing Reasoning and Acting in Language Models (ReAct ) - https://arxiv.org/abs/2210.03629
 
-
+To view demo, head over to folder "Project_Report/"
 
 
