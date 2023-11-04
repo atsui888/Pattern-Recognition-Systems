@@ -35,7 +35,7 @@ The Emotion Aware Intelligent Agent utilises the ReAct Framework as its Reasonin
 
 To view demo, head over to folder "Project_Report/02 Videos" and download "PRS_Demo_v4_1080p.mp4".
 
-richard chai
+richard chai<br>
 https://www.linkedin.com/in/richardchai/
 
 
