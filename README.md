@@ -1,7 +1,6 @@
 # Pattern-Recognition-Systems
 Enhancing the user's learning experience - Emotion Aware Intelligent Agent - <br>
-Masters of Technology in Artificial Intelligence (National University of Singapore - ISS) :<br>
-Pattern Recognition Systems Practice Module
+Certificate in Pattern Recognition Systems Practice Module
 <br>(Max Time Allocated for project: 10 days)
 
 The Corporate Training market size was valued at USD 145465.91 million in 2022 and is expected to expand at a CAGR of 9.57% during the forecast period, reaching USD 251715.61 million by 2028.
